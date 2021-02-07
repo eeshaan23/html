@@ -1,0 +1,29 @@
+h1 {
+    color:brown;
+}
+
+
+
+.header {
+    background-color: rgb(166, 255, 0);
+    display:flex;
+    justify-content: space-between;
+}
+.menu{
+    display:flex;
+    align-content: center;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+p, h2{
+    color: blueviolet;
+    text-align: center;
+
+}
